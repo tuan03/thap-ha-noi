@@ -1,0 +1,2 @@
+gcc test.cpp -Ilib/SDL_x/include/SDL2 -Llib/SDL_x/bin -Llib/SDL_image/bin -Llib/SDL_ttf/bin -Ilib/SDL_image/include/SDL2 -Ilib/SDL_ttf/include/SDL2 -lSDL2 -lSDL2_image -lSDL2_ttf -lstdc++ -luser32 -lgdi32 -o test
+test.exe                                                                                                       
